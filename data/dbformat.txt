@@ -1,0 +1,2 @@
+	
+titleid	region	name	url	rap	contentid	date	dlrap	size	checksum

@@ -1,0 +1,2 @@
+url_games https://nopaystation.com/tsv/PS3_GAMES.tsv
+url_dlcs https://nopaystation.com/tsv/PS3_DLCS.tsv
